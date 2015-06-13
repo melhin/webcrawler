@@ -23,14 +23,17 @@ class Parser(object):
         r'(?:/?|[/?]\S+)$', re.IGNORECASE)
 
     def __tag_parser(self, tags):
+        """Populate the url list with urls from the site"""
         for tag in tags:
             href = tag.get("href")
             if href:
                 url = urlparse.urljoin(self.url, escape(href))
+		###Check if url is valid
                 if url is not None and self.regex.search(url):
 		    self.url_list.append(url)
 
     def content_parser(self):
+        """ Parse content and get the linke """
         soup = BeautifulSoup(self.content)
         tags = soup('a')
         self.__tag_parser(tags)
@@ -44,6 +47,7 @@ class Fetcher(object):
         self.content = None
 
     def __add_headers(self, request):
+        """Place holder for adding random agents"""
         request.add_header("User-Agent", AGENT)
 
     def open(self):
@@ -55,11 +59,11 @@ class Fetcher(object):
             response = urllib2.urlopen(request, timeout=URL_TIMEOUT)
         except urllib2.HTTPError, error:
             if error.code == 404:
-                 self.logger.error("ERROR: %s -> %s" % (error, error.url))
+                self.logger.error("ERROR: %s -> %s" % (error, error.url))
             else:
-                 self.logger.error("ERROR: %s" % error)
+                self.logger.error("ERROR: %s" % error)
         except urllib2.URLError, error:
-             self.logger.error("ERROR: %s not valid " % self.url)
+            self.logger.error("ERROR: %s not valid " % self.url)
         return response
 
     def fetch(self):

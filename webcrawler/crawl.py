@@ -47,17 +47,20 @@ class Crawler(object):
                 url = self.link_q.get(False)
             except QueueEmpty:
                 break
-            ### To exclude links like "https://www.facebook.com/#, https://www.python.org/#"
-            if "#" in url and url.split('#')[0] in followed and \
-        	len(url.split("#")[1].split("/")) < 2: continue            
             try:
                 self.logger.info("Crawling %s Link: %d" % (str(url), (self.followed+1)))
                 urls = self.__fetch_url(url)
-                followed.append(url)
-                new_ent = set(urls) - set(self.urls)
-                self.urls.extend(new_ent)
-                for lnk in new_ent:
-                    self.link_q.put(lnk)
+                followed.append(url.strip("/"))
+                for lnk in urls:
+                    lnk = lnk.strip("/")
+                    ### To exclude links like "https://www.facebook.com/#, https://www.python.org/#content"
+                    if "#" in lnk and ( lnk.split('#')[0].strip("/") in followed or \
+                                        lnk.split('#')[0].strip("/") == url):
+        	       continue            
+
+                    if lnk not in self.urls and lnk not in followed:
+                       self.urls.append(lnk)
+                       self.link_q.put(lnk)
                 self.logger.debug("Finished  Crawling %s " % str(url))
                 self.followed += 1
 
@@ -75,12 +78,11 @@ class Crawler(object):
 def write_links_to_file(filename, links):
     """Write all the links found to a file """
     try:
-        with open(filename, "wb") as fh:
+        with open(filename, "wb") as filehandle:
             for link in links:
-                fh.write(str(link)+"\n")
+                filehandle.write(str(link)+"\n")
         return True
     except IOError:
-        logger.error("Write to file failed .. ")
         return False
 
 
