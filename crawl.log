@@ -1,0 +1,409 @@
+INFO:crawler:Crawling http://python.org (Max Depth: 10)
+INFO:crawler:Crawling http://python.org Link: 0
+INFO:crawler:Crawling https://www.openstack.org Link: 1
+INFO:crawler:Crawling http://python.org/about/success/#education Link: 2
+INFO:crawler:Crawling http://python.org/events/python-events/315/ Link: 3
+INFO:crawler:Crawling http://python.org/community/ Link: 4
+INFO:crawler:Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro Link: 5
+INFO:crawler:Crawling http://roundup.sourceforge.net/ Link: 6
+INFO:crawler:Crawling http://wiki.python.org/moin/TkInter Link: 7
+INFO:crawler:Crawling http://python.org/about/quotes/ Link: 8
+INFO:crawler:Crawling https://docs.python.org/devguide/ Link: 9
+INFO:crawler:Crawling http://python.org/community/irc/ Link: 10
+INFO:crawler:Crawling http://www.scipy.org Link: 11
+INFO:crawler:Found:    534
+INFO:crawler:Followed: 11
+INFO:crawler:Stats:    (10/s after 58.03s)
+INFO:crawler:Link file:: url_links.txt
+INFO:crawler:Crawling http://python.org (Max Depth: 10)
+INFO:crawler:Crawling http://python.org Link: 0
+INFO:crawler:Crawling https://www.openstack.org Link: 1
+INFO:crawler:Crawling http://python.org/about/success/#education Link: 2
+INFO:crawler:Crawling http://python.org/events/python-events/315/ Link: 3
+INFO:crawler:Crawling http://python.org/community/ Link: 4
+INFO:crawler:Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro Link: 5
+INFO:crawler:Crawling http://roundup.sourceforge.net/ Link: 6
+INFO:crawler:Crawling http://wiki.python.org/moin/TkInter Link: 7
+INFO:crawler:Crawling http://python.org/about/quotes/ Link: 8
+INFO:crawler:Crawling https://docs.python.org/devguide/ Link: 9
+INFO:crawler:Crawling http://python.org/community/irc/ Link: 10
+INFO:crawler:Crawling http://www.scipy.org Link: 11
+INFO:crawler:Found:    534
+INFO:crawler:Followed: 11
+INFO:crawler:Stats:    (9/s after 64.60s)
+INFO:crawler:Link file:: url_links.txt
+INFO:crawler:Crawling http://python.org (Max Depth: 10)
+INFO:crawler:Crawling http://python.org Link: 1
+INFO:crawler:Crawling https://www.openstack.org Link: 2
+INFO:crawler:Crawling http://python.org/about/success/#education Link: 3
+INFO:crawler:Crawling http://python.org/events/python-events/315/ Link: 4
+INFO:crawler:Crawling http://python.org/community/ Link: 5
+INFO:crawler:Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro Link: 6
+INFO:crawler:Crawling http://roundup.sourceforge.net/ Link: 7
+INFO:crawler:Crawling http://wiki.python.org/moin/TkInter Link: 8
+INFO:crawler:Crawling http://python.org/about/quotes/ Link: 9
+INFO:crawler:Crawling https://docs.python.org/devguide/ Link: 10
+INFO:crawler:Crawling http://python.org/community/irc/ Link: 11
+INFO:crawler:Found:    469
+INFO:crawler:Followed: 11
+INFO:crawler:Stats:    (8/s after 60.48s)
+INFO:crawler:Link file:: url_links.txt
+INFO:crawler:Crawling http://python.org (Max Depth: 10)
+INFO:crawler:Crawling http://python.org Link: 0
+INFO:crawler:Crawling https://www.openstack.org Link: 1
+INFO:crawler:Crawling http://python.org/about/success/#education Link: 2
+INFO:crawler:Crawling http://python.org/events/python-events/315/ Link: 3
+INFO:crawler:Crawling http://python.org/community/ Link: 4
+INFO:crawler:Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro Link: 5
+INFO:crawler:Crawling http://roundup.sourceforge.net/ Link: 6
+INFO:crawler:Crawling http://wiki.python.org/moin/TkInter Link: 7
+INFO:crawler:Crawling http://python.org/about/quotes/ Link: 8
+INFO:crawler:Crawling https://docs.python.org/devguide/ Link: 9
+INFO:crawler:Found:    465
+INFO:crawler:Followed: 10
+INFO:crawler:Stats:    (9/s after 57.35s)
+INFO:crawler:Link file:: url_links.txt
+INFO:crawler:Crawling http://python.org (Max Depth: 10)
+INFO:crawler:Crawling http://python.org Link: 0
+INFO:crawler:Crawling https://www.openstack.org Link: 1
+INFO:crawler:Crawling http://python.org/about/success/#education Link: 2
+INFO:crawler:Crawling http://python.org/events/python-events/315/ Link: 3
+INFO:crawler:Crawling http://python.org/community/ Link: 4
+INFO:crawler:Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro Link: 5
+INFO:crawler:Crawling http://roundup.sourceforge.net/ Link: 6
+INFO:crawler:Crawling http://wiki.python.org/moin/TkInter Link: 7
+INFO:crawler:Crawling http://python.org/about/quotes/ Link: 8
+INFO:crawler:Crawling https://docs.python.org/devguide/ Link: 9
+INFO:crawler:Crawling http://python.org/community/irc/ Link: 10
+INFO:crawler:Found:    469
+INFO:crawler:Followed: 10
+INFO:crawler:Stats:    (9/s after 55.77s)
+INFO:crawler:Link file:: url_links.txt
+INFO:crawler:Crawling http://python.org (Max Depth: 25)
+INFO:crawler:Crawling http://python.org Link: 0
+INFO:crawler:Crawling https://www.openstack.org Link: 1
+INFO:crawler:Crawling http://python.org/about/success/#education Link: 2
+INFO:crawler:Crawling http://python.org/events/python-events/315/ Link: 3
+INFO:crawler:Crawling http://python.org/community/ Link: 4
+INFO:crawler:Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro Link: 5
+INFO:crawler:Crawling http://roundup.sourceforge.net/ Link: 6
+INFO:crawler:Crawling http://wiki.python.org/moin/TkInter Link: 7
+INFO:crawler:Crawling http://python.org/about/quotes/ Link: 8
+INFO:crawler:Crawling https://docs.python.org/devguide/ Link: 9
+INFO:crawler:Crawling http://python.org/community/irc/ Link: 10
+INFO:crawler:Crawling http://www.scipy.org Link: 11
+INFO:crawler:Crawling http://www.saltstack.com Link: 12
+INFO:crawler:Crawling https://mail.python.org/mailman/listinfo/python-dev Link: 13
+INFO:crawler:Crawling http://python.org/community/merchandise/ Link: 14
+INFO:crawler:Crawling http://python.org/shell/ Link: 15
+INFO:crawler:Crawling http://docs.python.org/3/tutorial/controlflow.html Link: 16
+INFO:crawler:Crawling http://python.org/psf/donations/ Link: 17
+INFO:crawler:Crawling http://python.org/dev/peps/ Link: 18
+INFO:crawler:Crawling http://jobs.python.org Link: 19
+INFO:crawler:Crawling http://python.org/events/python-events/287/ Link: 20
+INFO:crawler:Crawling javascript:; Link: 21
+INFO:crawler:Crawling http://buildbot.net/ Link: 22
+INFO:crawler:Crawling http://python.org/downloads/mac-osx/ Link: 23
+INFO:crawler:Crawling http://wiki.python.org/moin/Languages Link: 24
+INFO:crawler:Crawling http://python.org/download/alternatives Link: 25
+ERROR:crawler:Keyboard Interrupt pressed .. exiting ..  
+INFO:crawler:Found:    957
+INFO:crawler:Followed: 24
+INFO:crawler:Stats:    (8/s after 121.79s)
+INFO:crawler:Link file:: url_links.txt
+INFO:crawler:Crawling http://python.org (Max Depth: 25)
+DEBUG:crawler:CRAW L ING.. .. http://python.org
+INFO:crawler:Crawling http://python.org Link: 0
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org 
+INFO:crawler:Crawling https://www.openstack.org Link: 1
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling https://www.openstack.org 
+INFO:crawler:Crawling http://python.org/about/success/#education Link: 2
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/about/success/#education 
+INFO:crawler:Crawling http://python.org/events/python-events/315/ Link: 3
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/events/python-events/315/ 
+INFO:crawler:Crawling http://python.org/community/ Link: 4
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/community/ 
+INFO:crawler:Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro Link: 5
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro 
+INFO:crawler:Crawling http://roundup.sourceforge.net/ Link: 6
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://roundup.sourceforge.net/ 
+INFO:crawler:Crawling http://wiki.python.org/moin/TkInter Link: 7
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://wiki.python.org/moin/TkInter 
+INFO:crawler:Crawling http://python.org/about/quotes/ Link: 8
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/about/quotes/ 
+INFO:crawler:Crawling https://docs.python.org/devguide/ Link: 9
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling https://docs.python.org/devguide/ 
+INFO:crawler:Crawling http://python.org/community/irc/ Link: 10
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/community/irc/ 
+INFO:crawler:Crawling http://www.scipy.org Link: 11
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://www.scipy.org 
+INFO:crawler:Crawling http://www.saltstack.com Link: 12
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://www.saltstack.com 
+INFO:crawler:Crawling https://mail.python.org/mailman/listinfo/python-dev Link: 13
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling https://mail.python.org/mailman/listinfo/python-dev 
+INFO:crawler:Crawling http://python.org/community/merchandise/ Link: 14
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/community/merchandise/ 
+INFO:crawler:Crawling http://python.org/shell/ Link: 15
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/shell/ 
+INFO:crawler:Crawling http://docs.python.org/3/tutorial/controlflow.html Link: 16
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://docs.python.org/3/tutorial/controlflow.html 
+INFO:crawler:Crawling http://python.org/psf/donations/ Link: 17
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/psf/donations/ 
+INFO:crawler:Crawling http://python.org/dev/peps/ Link: 18
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/dev/peps/ 
+INFO:crawler:Crawling http://jobs.python.org Link: 19
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://jobs.python.org 
+INFO:crawler:Crawling http://python.org/events/python-events/287/ Link: 20
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/events/python-events/287/ 
+INFO:crawler:Crawling javascript:; Link: 21
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling javascript:; 
+INFO:crawler:Crawling http://buildbot.net/ Link: 22
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://buildbot.net/ 
+INFO:crawler:Crawling http://python.org/downloads/mac-osx/ Link: 23
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/downloads/mac-osx/ 
+INFO:crawler:Crawling http://wiki.python.org/moin/Languages Link: 24
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://wiki.python.org/moin/Languages 
+INFO:crawler:Crawling http://python.org/download/alternatives Link: 25
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/download/alternatives 
+DEBUG:crawler:Specified depth reached
+INFO:crawler:Found:    961
+INFO:crawler:Followed: 25
+INFO:crawler:Stats:    (8/s after 132.99s)
+INFO:crawler:Link file:: url_links.txt
+INFO:crawler:Crawling http://python.org (Max Depth: 25)
+DEBUG:crawler:CRAW L ING.. .. http://python.org
+INFO:crawler:Crawling http://python.org Link: 0
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+ERROR:crawler:ERROR: Can't process url 'http://python.org' (global name 're' is not defined)
+INFO:crawler:Found:    0
+INFO:crawler:Followed: -1
+INFO:crawler:Stats:    (0/s after 34.16s)
+INFO:crawler:Link file:: url_links.txt
+INFO:crawler:Crawling http://python.org (Max Depth: 25)
+DEBUG:crawler:CRAW L ING.. .. http://python.org
+INFO:crawler:Crawling http://python.org Link: 0
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+ERROR:crawler:ERROR: Can't process url 'http://python.org' (global name 'regex' is not defined)
+INFO:crawler:Found:    0
+INFO:crawler:Followed: -1
+INFO:crawler:Stats:    (0/s after 5.37s)
+INFO:crawler:Link file:: url_links.txt
+INFO:crawler:Crawling http://python.org (Max Depth: 25)
+DEBUG:crawler:CRAW L ING.. .. http://python.org
+INFO:crawler:Crawling http://python.org Link: 0
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org 
+INFO:crawler:Crawling https://www.openstack.org Link: 1
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling https://www.openstack.org 
+INFO:crawler:Crawling http://python.org/about/success/#education Link: 2
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/about/success/#education 
+INFO:crawler:Crawling http://python.org/events/python-events/315/ Link: 3
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/events/python-events/315/ 
+INFO:crawler:Crawling http://python.org/community/ Link: 4
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/community/ 
+INFO:crawler:Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro Link: 5
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://www.riverbankcomputing.co.uk/software/pyqt/intro 
+INFO:crawler:Crawling http://roundup.sourceforge.net/ Link: 6
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://roundup.sourceforge.net/ 
+INFO:crawler:Crawling http://wiki.python.org/moin/TkInter Link: 7
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://wiki.python.org/moin/TkInter 
+INFO:crawler:Crawling http://python.org/about/quotes/ Link: 8
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/about/quotes/ 
+INFO:crawler:Crawling https://docs.python.org/devguide/ Link: 9
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling https://docs.python.org/devguide/ 
+INFO:crawler:Crawling http://python.org/community/irc/ Link: 10
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/community/irc/ 
+INFO:crawler:Crawling http://www.scipy.org Link: 11
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://www.scipy.org 
+INFO:crawler:Crawling http://www.saltstack.com Link: 12
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://www.saltstack.com 
+INFO:crawler:Crawling https://mail.python.org/mailman/listinfo/python-dev Link: 13
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling https://mail.python.org/mailman/listinfo/python-dev 
+INFO:crawler:Crawling http://python.org/community/merchandise/ Link: 14
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/community/merchandise/ 
+INFO:crawler:Crawling http://python.org/shell/ Link: 15
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/shell/ 
+INFO:crawler:Crawling http://docs.python.org/3/tutorial/controlflow.html Link: 16
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://docs.python.org/3/tutorial/controlflow.html 
+INFO:crawler:Crawling http://python.org/psf/donations/ Link: 17
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/psf/donations/ 
+INFO:crawler:Crawling http://python.org/dev/peps/ Link: 18
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/dev/peps/ 
+INFO:crawler:Crawling http://jobs.python.org Link: 19
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://jobs.python.org 
+INFO:crawler:Crawling http://python.org/events/python-events/287/ Link: 20
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/events/python-events/287/ 
+INFO:crawler:Crawling http://buildbot.net/ Link: 21
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://buildbot.net/ 
+INFO:crawler:Crawling http://python.org/downloads/mac-osx/ Link: 22
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/downloads/mac-osx/ 
+INFO:crawler:Crawling http://wiki.python.org/moin/Languages Link: 23
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://wiki.python.org/moin/Languages 
+INFO:crawler:Crawling http://python.org/download/alternatives Link: 24
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling http://python.org/download/alternatives 
+INFO:crawler:Crawling https://wiki.python.org/moin/ Link: 25
+DEBUG:crawler:Sending request .. 
+DEBUG:crawler:Response Received .. 
+DEBUG:crawler:Parsing content .. 
+DEBUG:crawler:Finished  Crawling https://wiki.python.org/moin/ 
+DEBUG:crawler:Specified depth reached
+INFO:crawler:Found:    934
+INFO:crawler:Followed: 25
+INFO:crawler:Stats:    (5/s after 220.58s)
+INFO:crawler:Link file:: url_links.txt
