@@ -73,6 +73,7 @@ class Crawler(object):
                 self.logger.error("ERROR: Can't process url '%s' (%s)" % (url, err))
 
 def write_links_to_file(filename, links):
+    """Write all the links found to a file """
     try:
         with open(filename, "wb") as fh:
             for link in links:
@@ -103,7 +104,7 @@ def parse_options():
     return  parser.parse_args(), parser
 
 def main():
-
+    """Start point for the command line program"""
     opts, parser = parse_options()
     if  not opts.url:
         parser.print_help()
