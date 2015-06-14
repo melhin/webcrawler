@@ -1,11 +1,13 @@
 # WebCrawler
-usage: python crawl.py -u <url> -d [depth] -v [maximum vebosity]
+usage: python crawl.py -u <url> [ -d <depth> -v  -r -o <filename> ] 
 
-A simple webcrawler using a non blocking queue repository [ctrl + c to exit]
-
+A simple webcrawler using a non blocking queue repository 
+with support for extracting links only from root domain
+[ctrl + c to exit]
 optional arguments:
   -h, --help            show this help message and exit
-  -u URL, --url URL     Root url to crawl
+  -u, --url             Root url to crawl
+  -o, --output          if specified writes it to the file [default : url_links.txt]
   -v, --verbose         Enable maximum verbosity
-  -d DEPTH, --depth DEPTH
-                        Maximum depth to traverse
+  -d, --depth           Maximum depth to traverse
+  -r, --restricted      Restrict links to root domain
