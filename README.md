@@ -6,7 +6,9 @@ with support for extracting links only from root domain
 
 ***Usage***
 
+ ```python 
  python crawl.py -u <url> [ -d <depth> -v  -r -o <filename> ] 
+ ```
 
  [ctrl + c to interuppt crawling]
 
