@@ -13,7 +13,7 @@ with support for extracting links only from root domain
 ***Arguments***
 -  -h, --help            show this help message and exit
 -  -u, --url             Root url to crawl
--  -o, --output          if specified writes it to the file [default : url_links.txt]
+-  -o, --output          If specified writes it to the file [default : url_links.txt]
 -  -v, --verbose         Enable maximum verbosity
 -  -d, --depth           Maximum depth to traverse
 -  -r, --restricted      Restrict links to root domain
