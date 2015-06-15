@@ -158,6 +158,8 @@ def main():
     t_time = e_time - s_time
 
     logger.info("Found:    %d" % len(crawler.urls))
+    if crawler.followed == -1:
+       crawler.followed = 0
     logger.info("Followed: %d" % crawler.followed)
     logger.info("Stats:    (%d/s after %0.2fs)" % (int(math.ceil(float(len(crawler.urls)) / t_time)), t_time))
     if write_links_to_file(output, crawler.urls):
