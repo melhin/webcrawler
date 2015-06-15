@@ -7,7 +7,10 @@ import tldextract
 from Queue import Queue, Empty as QueueEmpty
 from crawl_url import Fetcher, Parser
 
-USAGE = "python crawl.py -u <url> -d [depth] -v [maximum vebosity]"
+USAGE = """
+         python crawl.py -u <url> -o [ <filename> [default:url_links.txt ]] -d [depth]
+         -v [maximum vebosity] -r [restrict to root domain]
+        """
 DESCRIPTION = "A simple webcrawler using a non blocking queue repository [ctrl + c to exit]"
 LINK_FILE = "url_links.txt"
  
