@@ -31,7 +31,7 @@ class Crawler(object):
 
     def __fetch_url(self, url):
 	""" Fetching and parsing links for each page"""
-        root = Fetcher(self.root, logger=self.logger)
+        root = Fetcher(url, logger=self.logger)
         root.fetch()
         if not root.content:
             return []
